@@ -1,6 +1,6 @@
 # SoopyV2
 
-DOWNLOAD AT https://github.com/Soopyboo32/SoopyV2Forge/releases
+To Download The Original Version Of Mod Visit https://github.com/Soopyboo32/SoopyV2Forge/releases
 
 More info at https://soopy.dev/soopyv2
 
